@@ -1,5 +1,4 @@
-#selenium tutorial 1
-# https://www.youtube.com/watch?v=b5jt2bhSeXs
+
 from datetime import date, datetime
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys #gives access to keys
